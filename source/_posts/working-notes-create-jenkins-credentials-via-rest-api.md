@@ -1,7 +1,11 @@
 ---
 title: 工作笔记-通过REST API创建Jenkins Credentials
 date: 2019-10-11 23:48:30
-tags: 工作笔记，Jenkins, credential, REST API
+category: 工作笔记
+tags:
+- Jenkins
+- credential
+- REST API
 ---
 
 1. 准备创建Credential的模板

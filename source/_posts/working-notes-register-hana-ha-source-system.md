@@ -1,7 +1,10 @@
 ---
 title: 工作笔记-注册HANA高可用集群的源系统
 date: 2019-10-12 00:04:07
-tags: 工作笔记, SAP HANA, 高可用
+category: 工作笔记
+tags:
+- SAP HANA
+- 高可用
 ---
 
 1. 使用SSH登录到HANA备用主机的命令行界面

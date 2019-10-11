@@ -1,7 +1,11 @@
 ---
 title: 工作笔记-Linux系统配置虚拟IP
 date: 2019-09-03 08:15:14
-tags: 工作笔记, Linux, 虚拟IP, ip addr
+category: 工作笔记
+tags:
+- Linux
+- 虚拟IP
+- ip addr
 ---
 
 查看系统当前所有网络设备的IP

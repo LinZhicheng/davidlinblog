@@ -1,7 +1,12 @@
 ---
 title: 工作笔记-解决Linux下调用docker socket遇到permission denied的问题
 date: 2019-10-11 23:41:28
-tags: Linux, docker, usermod, permission
+category: 工作笔记
+tags:
+- Linux
+- docker
+- usermod
+- permission
 ---
 
 ```(shell)
